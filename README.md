@@ -5,5 +5,4 @@ CC15XX1 (CEO, Development),
 
 # About us
 
-This is a private organization, with projects in the making.
-Most of our information is disclosed, we do not have a lot of information that can be publicly said.
+This is a private organization, with standard and enterprise projects in the making.
