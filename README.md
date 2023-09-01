@@ -1,7 +1,6 @@
 # The team
 The people with public aliases are:
-CC15XX1 (CEO, Development), Cloud (Helper, development),
-0David (Helper, web/server).
+CC15XX1 (CEO, Development), Cloud (Helper, development).
 
 # About us
 
