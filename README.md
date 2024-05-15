@@ -1,6 +1,6 @@
 # The team
 The people with public aliases are:
-CC15XX1 (FOunder, CEO, Development).
+CC15XX1 (Founder, CEO, Development).
 
 # About us
 
